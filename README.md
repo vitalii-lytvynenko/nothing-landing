@@ -17,7 +17,6 @@ The project uses pure SCSS, organized into separate files and folders, following
   ├── images/
   │   ├── icons/
   │   ├── products/
-  │ 
   ├── scripts/
   │   ├── components/
   ├── styles/
@@ -28,6 +27,25 @@ The project uses pure SCSS, organized into separate files and folders, following
   │   └── main.scss
   └── index.html
 ```
+## Installation
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/vitalii-lytvynenko/repository-name.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd repository-name
+   ```
+3. Install the dependencies:
+   ```
+   npm install
+   ```
+4. Start the project:
+   ```
+   npm start
+   ```
 
 
 
