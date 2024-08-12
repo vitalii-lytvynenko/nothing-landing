@@ -18,7 +18,7 @@ The project uses pure SCSS, organized into separate files and folders, following
   │   ├── icons/
   │   ├── products/
   ├── scripts/
-  │   ├── components/
+  │   ├── main.js
   ├── styles/
   │   ├── blocks/
   │   ├── utils/
